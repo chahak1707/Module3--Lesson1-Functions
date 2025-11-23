@@ -1,0 +1,6 @@
+def circumference(radius):
+    return 2 * 3.144 * radius
+
+radius = float(input("Enter radius: "))
+
+print("Circumference =", circumference(radius))
